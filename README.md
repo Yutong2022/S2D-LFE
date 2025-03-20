@@ -1,4 +1,4 @@
-# S2D-LFE
+# <p align=center> :fire: `S2D-LFE: Sparse-to-Dense Light Field Event Generation`</p>
 ## 🚩 **Todo List**
 - [ ] Source code of 3D VQVAE.
 - [ ] Source code of 3D GPT.

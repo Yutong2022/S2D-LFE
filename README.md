@@ -1,7 +1,8 @@
 # <p align=center> :fire: `S2D-LFE: Sparse-to-Dense Light Field Event Generation`</p>
 ## 🚩 **Todo List**
-- [ ] Source code of 3D VQVAE.
-- [ ] Source code of 3D GPT.
-- [ ] Pretrained weights of 3D reconstruction.
-- [ ] Pretrained weights of text-to-3D generation.
-- [ ] Pretrained weights of image-to-3D generation.
+- [ ] Real and Synthetic LFE Datasets  
+- [ ] System Setup and ROS Scripts for Data Collection  
+- [ ] Source Code of LFE-VAE  
+- [ ] Source Code of the Diffusion Pipeline  
+- [ ] Pretrained Weights of LFE-VAE  
+- [ ] Pretrained Weights of the Diffusion Pipeline
